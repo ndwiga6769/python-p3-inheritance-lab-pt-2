@@ -18,9 +18,7 @@ class ChattyStudent(Student):
             super().raise_hand()
 
 
-chatty_student = ChattyStudent()
-chatty_student.hello()  
-chatty_student.raise_hand()            
+          
 
 
         
